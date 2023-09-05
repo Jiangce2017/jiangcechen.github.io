@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Jiangce Chen
+      value: Thom Badings
     - name: Date of Birth
-      value: 21st April 1992
+      value: 17th July 1995
     - name: Languages
-      value: English, Mandarin
+      value: English, Dutch
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Connecticut, Storrs, Connecticut, USA
-      year: 2023
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
         - Description 1.
         - Description 2.
@@ -38,7 +38,7 @@
         - Description 1.
         - Description 2.
         - title: Description 3.
-          contents: s
+          contents:
             - Sub-description 1.
             - Sub-description 2.
     - title: Visiting Professor
