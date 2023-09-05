@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoc at <a href='https://www.utexas.edu' target='blank'>The University of Texas at Austin</a>, TX, USA.
+subtitle: Postdoc at <a href='https://www.cmu.edu' target='blank'>Carnegie Mellon University</a>, PA, USA.
 
 profile:
   align: right
-  image: yue.jpeg
+  image: jiangce.jpg
   image_circular: true # crops the image to make it circular
   address:
 
@@ -15,11 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a postdoc at the Oden Institute for Computational Engineering and Sciences, The University of Texas at Austin. My advisor is [Ufuk Topcu](https://www.ae.utexas.edu/people/faculty/faculty-directory/topcu). I obtained my PhD degree from Univsersity of Washington. My PhD advisor is [Behcet Acikmese](https://www.aa.washington.edu/facultyfinder/behcet-acikmese). 
+I am a postdoc at Manufacturing Futures Institute, Carnegie Mellon University. My advisors are [Christopher McComb](https://engineering.cmu.edu/directory/bios/mccomb-christopher.html) and [Sneha Prabha Narra](https://www.meche.engineering.cmu.edu/directory/bios/narra-sneha.html). I obtained my PhD degree from University of Connecticut. My PhD advisor is [Horea T. Ilies](https://me.engr.uconn.edu/blog/faculty/ilies-horea-t/). 
 
 Research interests
 ------
-
-My research interests are in the intersections of optimization, game theory, control theory, and machine learning. I develop numerical optimization solvers to enable real-time decision-making in autonomy, data-driven control for dynamical systems with unknown governing equations, and mechanism design to mitigate the conflicts in multiagent interaction. 
+My principal research aim revolves around augmenting the designability and replicability of metal additive manufacturing (AM) methodologies. I aim to establish comprehensive links between the manufacturing process, material structure, and resulting properties in metal AM. These connections will be employed to engineer components that challenge the boundaries of AM capabilities and to optimize the AM process for achieving outcomes that closely align with the original design intent.
 
 

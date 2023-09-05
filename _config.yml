@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Yue
+first_name: Jiangce
 middle_name: 
-last_name: Yu
-email: yueyu@utexas.edu
+last_name: Chen
+email: jiangcec@andrew.cmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Yue Yu' Homepage
+  Jiangce Chen' Homepage
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: 
@@ -16,7 +16,7 @@ keywords:
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://yueyu.netlify.app # the base hostname & protocol for your site
+url: https://jiangcechen.com # the base hostname & protocol for your site
 baseurl: 
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -65,16 +65,16 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: yueyu19 # your GitHub user name
+github_username: Jiance2017 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username:  # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: ji9uRfcAAAAJ # your Google Scholar ID
+scholar_userid: 0ZMklOIAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0002-8309-1838 # your ORCID ID
+orcid_id: 0000-0002-5562-9119 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -113,7 +113,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name:  # blog_name will be displayed in your blog page
 blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
-blog_description: Tutorials about control, optimization, robotics, games, and information theory (CORGI)
+blog_description: Tutorials about thermal simulation for additive manufacturing, computational geometry, and topology optimization.
 permalink: /blog/:year/:title/
 
 # Pagination
