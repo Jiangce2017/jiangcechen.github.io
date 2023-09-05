@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yueyu.netlify.app/sitemap.xml
+Sitemap: https://jiangcechen.com/sitemap.xml
