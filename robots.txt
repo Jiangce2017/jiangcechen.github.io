@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jiangcechen.com/al-folio/sitemap.xml
+Sitemap: https://yueyu.netlify.app/sitemap.xml
